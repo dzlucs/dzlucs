@@ -1,7 +1,7 @@
 - @dzlucs
 -  ✉ dzlucas@live.com
 - 💻 Sistemas para Internet
-- 🌱 I’m currently learning HTML + CSS 
+- 🌱 I’m currently learning HTML + CSS, Figma
 
 <!---
 dzlucs/dzlucs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
