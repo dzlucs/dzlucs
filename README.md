@@ -1,6 +1,6 @@
 - @dzlucs
 -  ✉ dzlucas@live.com
-- 💻 Sistemas para Internet
+- 💻 Sistemas para Internet - UTFPR
 - 🌱 I’m currently learning HTML + CSS, Figma
 
 <!---
